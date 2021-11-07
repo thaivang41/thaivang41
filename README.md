@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thaivang41
 - 👀 I’m interested in learning and listening to new ideas.
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on projects and am willing to take on any challenges.
+- 💞️ I’m looking to collaborate on any projects and am willing to take on any challenges.
 - 📫 I can be contacted by email at thai.c.vang@gmail.com.
 
 <!---
